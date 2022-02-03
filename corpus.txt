@@ -1,0 +1,19 @@
+What are the types of supervised learning?
+What are the types of unsupervised learning?
+When was Python 3.0 released?
+How do neurons connect in a neural network?
+What are the types of Machine Learning?
+What is Artificial Intelligence?
+What is probability means?
+What is Grammar?
+What is traing data?
+What is testing data?
+What is Grammar?
+What is supervised learning?
+What is unsupervised learning?
+Describe the Semi-Supervised Leaning?
+What is Python?
+What are the methods is Python?
+What are the classes in Python?
+What is Object Oriented Programming?
+What is OOPS?
