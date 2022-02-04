@@ -24,4 +24,4 @@ The use of TF-IDF (Term Frequency and Inverse Document Frequency) is conferred i
 
 First : The working principle of TF-IDF are discussed. Second: The algorithm is used for both approaches for accounting TF. After that both approaches are compared. After that strength and weakness of the algorithm is compared. How the weaknesses can be handled.
 
-![]('./001.jpg')
+![0001](https://user-images.githubusercontent.com/57538359/152501301-d176d177-8e05-4cce-9c5c-e170bc119c31.jpg)
