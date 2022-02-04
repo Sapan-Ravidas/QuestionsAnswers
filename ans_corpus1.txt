@@ -1,0 +1,270 @@
+1. What are the types of supervised learning?
+Types of supervised learning algorithms include Active learning , classification and regression.
+
+2. What are the types of unsupervised learning?
+=== Types of learning algorithms ===
+
+3. When was Python 3.0 released?
+Python 3.0 was released on 3 December 2008.
+
+4. How do neurons connect in a neural network?
+Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers.
+
+5. What are the types of Machine Learning?
+Various types of models have been used and researched for machine learning systems.
+
+6. What is Artificial Intelligence?
+Artificial intelligence is assisting doctors.
+
+7. What is probability means?
+   where the proportionality symbol means that the left hand side is proportional to  (i.e., equals a constant times) the right hand side as
+
+8. What is Grammar?
+Grammar induction
+
+9. What is training data?
+The data is known as training data, and consists of a set of training examples.
+
+10. What is testing data?
+It includes modules for creating graphical user interfaces, connecting to relational databases, generating pseudorandom numbers, arithmetic with arbitrary-precision decimals, manipulating regular expressions, and unit testing.
+
+11. What is Grammar?
+Grammar induction
+
+12. What is supervised learning?
+==== Supervised learning ====
+
+13. What is unsupervised learning?
+==== Unsupervised learning ====
+
+14. Describe the Semi-Supervised Leaning?
+Probability theory is required to describe quantum phenomena.
+
+15. What is Python?
+Dive Into Python.
+
+16. What are the methods is Python?
+Python methods have an explicit self parameter to access instance data, in contrast to the implicit self (or this) in some other object-oriented programming languages (e.g., C++, Java, Objective-C, or Ruby).
+
+17. What are the classes in Python?
+Old-style classes were eliminated in Python 3.0.
+
+18. What is Object Oriented Programming?
+This is termed binding the name to the object.
+
+19. What is OOPS?
+Couldn't find the answer
+
+20. What is the history of probability?
+People from the History of Probability and Statistics (Univ.
+
+21. WHat is conditional probability?
+Conditional probability is written
+
+22. What are dependent event?
+   to event
+
+23. What are independent event?
+=== Independent events ===
+
+24. What are the application of probability?
+Another significant application of probability theory in everyday life is reliability.
+
+25. What are the the limitation of ML?
+However, most other systems depended on corpora specifically developed for the tasks implemented by these systems, which was (and often continues to be) a major limitation in the success of these systems.
+
+26. What are the limitation of AI?
+The AI effect
+
+27. What are the history of AI?
+=== History of AI ===
+
+28. Difference between AI and ML?
+Machine learning (ML), a fundamental concept of AI research since the field's inception, is the study of computer algorithms that improve automatically through experience.
+
+29. What are the applications of AI?
+Many artificial intelligence researchers seek to distance themselves from military applications of AI.
+
+30. Difference between supervised and unsupervised Machine Leaning?
+Supervised anomaly detection techniques require a data set that has been labeled as "normal" and "abnormal" and involves training a classifier (the key difference to many other statistical classification problems is the inherently unbalanced nature of outlier detection).
+
+31. Supervised vs unsupervised vs Reinforcement Learning.
+Learning classifier systems (LCS) are a family of rule-based machine learning algorithms that combine a discovery component, typically a genetic algorithm, with a learning component, performing either supervised learning, reinforcement learning, or unsupervised learning.
+
+32. What is bias in ML?
+Machine learning (ML) is the study of computer algorithms that improve automatically through experience.
+
+33. What is bias in Machine Learning?
+Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people.
+
+34. What is variance in ML?
+The MSE on a validation set can be used as an estimate for variance.
+
+35. What is variance in Machine Learning?
+Machine Learning
+
+36. What are the libraries of Python?
+Examples of the use of this prefix in names of Python applications or libraries include Pygame, a binding of SDL to Python (commonly used to create games); PyQt and PyGTK, which bind Qt and GTK to Python respectively; and PyPy, a Python implementation originally written in Python.
+
+37. What is Natural Language Processing?
+Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation.
+
+38. What is Natural Network?
+ANNs have been used to accelerate reliability analysis of infrastructures subject to natural disasters and to predict foundation settlements.
+
+39. What is ANN?
+ANN capabilities fall within the following broad categories:
+
+40. What is biological neurons?
+Each connection, like the synapses in a biological brain, can transmit a signal to other neurons.
+
+41. What is Propagation Function?
+==== Propagation function ====
+
+42. What is Cost Function?
+==== Cost function ====
+
+43. What is Hyperparameter?
+=== Hyperparameter ===
+
+44. Describe backpropagation?
+==== Backpropagation ====
+
+45. What is Learning rate?
+==== Learning rate ====
+
+46. What is the role of SVM classifiers?
+Otherwise, if no matching model is available, and if accuracy (rather than speed or scalability) is the sole concern, conventional wisdom is that discriminative classifiers (especially SVM) tend to be more accurate than model-based classifiers such as "naive Bayes" on most practical data sets.
+
+47. What is Backpropagation used for?
+In 1973, Dreyfus used backpropagation to adapt parameters of controllers in proportion to error gradients.
+
+48. What are the good models?
+A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem.
+
+49. What is multilayer perceptron?
+The multilayer perceptron is a universal function approximator, as proven by the universal approximation theorem.
+
+50. What is softmax activation function used for?
+The softmax activation function is:
+
+51. Which is the most popular activation function in neural network?
+By assigning a softmax activation function, a generalization of the logistic function, on the output layer of the neural network (or a softmax component in a component-based network) for categorical target variables, the outputs can be interpreted as posterior probabilities.
+
+52. What is generalization of a model?
+But if the hypothesis is too complex, then the model is subject to overfitting and generalization will be poorer.
+
+53. What is hypothesis used for?
+If the hypothesis is less complex than the function, then the model has under fitted the data.
+
+54. What are the challenges of AI?
+Games of imperfect knowledge provide new challenges to AI in the area of game theory.
+
+55. What is the main idea of Min-Max Algorithm?
+Their main success came in the mid-1980s with the reinvention of backpropagation.
+
+56. What is Search Algorithm?
+A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem.
+
+57. What is regression used for?
+Classification algorithms are used when the outputs are restricted to a limited set of values, and regression algorithms are used when the outputs may have any numerical value within a range.
+
+58. What are the regulization technique is used for ML?
+Machine learning (ML) is the study of computer algorithms that improve automatically through experience.
+
+59. What is artificial neural network is used for?
+An artificial neural network consists of a collection of simulated neurons.
+
+60. What are the pre-processing technique used in Natural Language?
+For instance, the term neural machine translation (NMT) emphasizes the fact that deep learning-based approaches to machine translation directly learn sequence-to-sequence transformations, obviating the need for intermediate steps such as word alignment and language modeling that was used in statistical machine translation (SMT).
+
+61. What are the different tyoes of grammar used in natural language?
+requiring all of the different types of knowledge that humans possess (grammar, semantics, facts about the real world, etc.)
+
+62. What is the difference between Decision Tree and RainForest Algorithm?
+In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making.
+
+63. What is Decision Tree used for?
+In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making.
+
+64. When UnderFiting occurs?
+If either event A or event B but never both occurs on a single performance of an experiment, then they are called mutually exclusive events.
+
+65. When Overfitting occurs?
+But if the hypothesis is too complex, then the model is subject to overfitting and generalization will be poorer.
+
+66. What is difference between underfiting and Overfitting?
+But if the hypothesis is too complex, then the model is subject to overfitting and generalization will be poorer.
+
+67. What is logistic regression?
+When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel ), Logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher dimensional space.
+
+68. What is K-Mean clustering?
+Examples include dictionary learning, independent component analysis, autoencoders, matrix factorization and various forms of clustering.
+
+69. When SVM is better than other model?
+Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.
+
+70. When Linear regression is useful?
+Its most common form is linear regression, where a single line is drawn to best fit the given data according to a mathematical criterion such as ordinary least squares.
+
+71. When logistic regression is useful?
+When dealing with non-linear problems, go-to models include polynomial regression (for example, used for trendline fitting in Microsoft Excel ), Logistic regression (often used in statistical classification) or even kernel regression, which introduces non-linearity by taking advantage of the kernel trick to implicitly map input variables to higher dimensional space.
+
+72. What is the history of NLP?
+The history of natural language processing (NLP) generally started in the 1950s, although work can be found from earlier periods.
+
+73. Difference between rule-based vs statical NLP?
+== Rule-based vs. statistical NLP ==
+
+74. What is semantics in NLP?
+== Rule-based vs. statistical NLP ==
+
+75. What is CPython?
+CPython is the reference implementation of Python.
+
+76. What is numpy is used for?
+It is intended to be used by libraries such as NumPy for matrix multiplication.
+
+77. What is Pyjs is used for?
+Pyjs and IronPython can be used to develop the client-side of Ajax-based applications.
+
+78. Who developed the method of least squares?
+Adrien-Marie Legendre (1805) developed the method of least squares, and introduced it in his Nouvelles méthodes pour la détermination des orbites des comètes (New Methods for Determining the Orbits of Comets).
+
+79. What is gradient descent?
+The weight updates can be done via stochastic gradient descent or other methods, such as Extreme Learning Machines, "No-prop" networks, training without backtracking, "weightless" networks, and non-connectionist neural networks.
+
+80. The first person who has created the concept of perceptron?
+Rosenblatt (1958) created the perceptron.
+
+81. The layer which recieves data is called?
+The layer that receives external data is the input layer.
+
+82. What are the classifier algorithm?
+An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting.
+
+83. What are the learning classifier systems?
+Rule-based machine learning approaches include learning classifier systems, association rule learning, and artificial immune systems.
+
+84. How supervised machine learning determine the confidence of a model?
+Supervised learning algorithms build a mathematical model of a set of data that contains both the inputs and the desired outputs.
+
+85. What technique is used for ANN design?
+Neural architecture search (NAS) uses machine learning to automate ANN design.
+
+86. What ate the modes of learning?
+Two modes of learning are available: stochastic and batch.
+
+87. What are outliers?
+Anomalies are referred to as outliers, novelties, noise, deviations and exceptions.
+
+88. What is Rule-Based learning?
+Rule-based machine learning approaches include learning classifier systems, association rule learning, and artificial immune systems.
+
+89. How Deep Learning is used in AI?
+In the 2010s, advances in neural networks using deep learning thrust AI into widespread public consciousness and contributed to an enormous upshift in corporate AI spending; for example, AI-related M&A in 2017 was over 25 times as large as in 2015.The study of non-learning artificial neural networks began in the decade before the field of AI research was founded, in the work of Walter Pitts and Warren McCullouch.
+
+90. What is the role of probability theory in everyday life?
+Probability theory is applied in everyday life in risk assessment and modeling.
+

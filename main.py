@@ -9,7 +9,7 @@ import sys
 import nltk
 
 FILE_MATCHES = 1
-SENTENCE_MATCHES = 1
+SENTENCE_MATCHES = 3
 
 
 def find_matches(query, file_words, file_idfs):

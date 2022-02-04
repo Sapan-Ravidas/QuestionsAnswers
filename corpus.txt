@@ -6,7 +6,7 @@ What are the types of Machine Learning?
 What is Artificial Intelligence?
 What is probability means?
 What is Grammar?
-What is traing data?
+What is training data?
 What is testing data?
 What is Grammar?
 What is supervised learning?
@@ -17,3 +17,74 @@ What are the methods is Python?
 What are the classes in Python?
 What is Object Oriented Programming?
 What is OOPS?
+What is the history of probability?
+WHat is conditional probability?
+What are dependent event?
+What are independent event?
+What are the application of probability?
+What are the the limitation of ML?
+What are the limitation of AI?
+What are the history of AI?
+Difference between AI and ML?
+What are the applications of AI?
+Difference between supervised and unsupervised Machine Leaning?
+Supervised vs unsupervised vs Reinforcement Learning.
+What is bias in ML?
+What is bias in Machine Learning?
+What is variance in ML?
+What is variance in Machine Learning?
+What are the libraries of Python?
+What is Natural Language Processing?
+What is Natural Network?
+What is ANN?
+What is biological neurons?
+What is Propagation Function?
+What is Cost Function?
+What is Hyperparameter?
+Describe backpropagation?
+What is Learning rate?
+What is the role of SVM classifiers?
+What is Backpropagation used for?
+What are the good models?
+What is multilayer perceptron?
+What is softmax activation function used for?
+Which is the most popular activation function in neural network?
+What is generalization of a model?
+What is hypothesis used for?
+What are the challenges of AI?
+What is the main idea of Min-Max Algorithm?
+What is Search Algorithm?
+What is regression used for?
+What are the regulization technique is used for ML?
+What is artificial neural network is used for?
+What are the pre-processing technique used in Natural Language?
+What are the different tyoes of grammar used in natural language?
+What is the difference between Decision Tree and RainForest Algorithm?
+What is Decision Tree used for?
+When UnderFiting occurs?
+When Overfitting occurs?
+What is difference between underfiting and Overfitting?
+What is logistic regression?
+What is K-Mean clustering?
+When SVM is better than other model?
+When Linear regression is useful?
+When logistic regression is useful?
+What is the history of NLP?
+Difference between rule-based vs statical NLP?
+What is semantics in NLP?
+What is CPython?
+What is numpy is used for?
+What is Pyjs is used for?
+Who developed the method of least squares?
+What is gradient descent?
+The first person who has created the concept of perceptron?
+The layer which recieves data is called?
+What are the classifier algorithm?
+What are the learning classifier systems?
+How supervised machine learning determine the confidence of a model?
+What technique is used for ANN design?
+What ate the modes of learning?
+What are outliers?
+What is Rule-Based learning?
+How Deep Learning is used in AI?
+What is the role of probability theory in everyday life?
