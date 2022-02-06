@@ -48,14 +48,14 @@ Score of file 'python.txt' = 0.00018680487376429775
 
 
 Sentence Relevance Scores are : 
-Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. = 6.241281457916771
+Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "Thereï¿½s nothing artificial about AI...Itï¿½s inspired by people, itï¿½s created by people, andï¿½most importantlyï¿½it impacts people. = 6.241281457916771
 For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants. = 6.241281457916771
 === Bias === = 4.019381523748645
 The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. = 4.019381523748645
 Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices. = 4.019381523748645
 Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems. = 4.019381523748645
 
-Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people.
+Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "Thereï¿½s nothing artificial about AI...Itï¿½s inspired by people, itï¿½s created by people, andï¿½most importantlyï¿½it impacts people.
 ------>
 What is Natural Language Processing?
 
@@ -91,7 +91,7 @@ Score of file 'probability.txt' = 0.0004235615236717626
 
 Sentence Relevance Scores are : 
 A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. = 5.117993812416755
-Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people. = 5.117993812416755
+Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "Thereï¿½s nothing artificial about AI...Itï¿½s inspired by people, itï¿½s created by people, andï¿½most importantlyï¿½it impacts people. = 5.117993812416755
 === Models === = 3.172083663361442
 === Training models === = 3.172083663361442
 Various types of models have been used and researched for machine learning systems. = 3.172083663361442
@@ -299,14 +299,14 @@ Score of file 'python.txt' = 0.00037360974752859545
 
 
 Sentence Relevance Scores are : 
-Adrien-Marie Legendre (1805) developed the method of least squares, and introduced it in his Nouvelles méthodes pour la détermination des orbites des comètes (New Methods for Determining the Orbits of Comets). = 19.6344753693893
+Adrien-Marie Legendre (1805) developed the method of least squares, and introduced it in his Nouvelles mï¿½thodes pour la dï¿½termination des orbites des comï¿½tes (New Methods for Determining the Orbits of Comets). = 19.6344753693893
 biological Punnett squares). = 4.93806460126142
 There have been at least two successful attempts to formalize probability, namely the Kolmogorov formulation and the Cox formulation. = 4.532599493153256
 The earliest known forms of probability and statistics were developed by Middle Eastern mathematicians studying cryptography between the 8th and 13th centuries. = 4.532599493153256
 The modern theory of probability based on the measure theory was developed by Andrey Kolmogorov (1931).On the geometric side (see integral geometry) contributors to The Educational Times were influential (Miller, Crofton, McColl, Wolstenholme, Watson, and Artemas Martin). = 4.532599493153256
 To qualify as a probability, the assignment of values must satisfy the requirement that if you look at a collection of mutually exclusive events (events with no common results, e.g., the events {1,6}, {3}, and {2,4} are all mutually exclusive), the probability that at least one of the events will occur is given by the sum of the probabilities of all the individual events. = 4.532599493153256
 
-Adrien-Marie Legendre (1805) developed the method of least squares, and introduced it in his Nouvelles méthodes pour la détermination des orbites des comètes (New Methods for Determining the Orbits of Comets).
+Adrien-Marie Legendre (1805) developed the method of least squares, and introduced it in his Nouvelles mï¿½thodes pour la dï¿½termination des orbites des comï¿½tes (New Methods for Determining the Orbits of Comets).
 ------>
 The first person who has created the concept of perceptron?
 
