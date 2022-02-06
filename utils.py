@@ -3,6 +3,7 @@ import sys
 import os
 import string
 import math
+from termcolor import colored, cprint
 
 class Util:
 
@@ -62,6 +63,47 @@ class Util:
 
 
 
+    def show_FileRelevance(self, scores):
+        """
+        Given the 'scores' (a dictionary mapping filename to relevance score)
+        Displays relevance score for all the files
+        """
+        try:
+            print()
+            counter = 0
+            cprint("File Relevance Score are : ", 'magenta')
+            for file, score in scores.items():
+                text = f"Score of file '{file}' = {colored(score, 'green')}"
+                print(text)
+                counter += 1
+                if counter > 5:
+                    break
+            print()
+        except Exception as e:
+            print(e)
+
+
+    
+    def show_SentenceRelevance(self, scores):
+        """
+        Given the scores (a dictionaty mapping the senetences to their respected scores
+        and density). Displays the scores of top 5 sentence.
+        """
+        try:
+            counter = 0
+            cprint("\nSentence Relevance Scores are : ", 'magenta')
+            for key, value in sorted(scores.items(), key = lambda x: (x[1][0], x[1][1]), reverse=True):
+                text = f"{key} = {colored(value[0], 'green')}"
+                print(text)
+                counter += 1
+                if counter > 5:
+                    break
+            print()
+        except Exception as e:
+            print(e)
+
+
+
     def top_files(self, query, file_words, idfs, n):
         """
         Given a 'query' (a set of words), 'files_words' (a dictinary mapping names
@@ -80,7 +122,7 @@ class Util:
 
             if file_score != 0:
                 scores[filename] = file_score
-
+        self.show_FileRelevance(scores)
         sorted_by_score = [k for k, v in sorted(scores.items(), key=lambda x : x[1], reverse=True)]
         return sorted_by_score[:n]
 
@@ -105,6 +147,7 @@ class Util:
                 density = sum([sentwords.count(x) for x in query]) / len(sentwords)
                 scores[sentence] = (score, density)
     
+        self.show_SentenceRelevance(scores) # Show top sentences by the relevance-scores 
+
         sorted_by_score = [k for k, v in sorted(scores.items(), key = lambda x : (x[1][0], x[1][1]), reverse=True)]
         return sorted_by_score[:n]
-

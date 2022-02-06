@@ -95,7 +95,7 @@ Learning classifier systems (LCS) are a family of rule-based machine learning al
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience.
 
 33. What is bias in Machine Learning?
-Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "There’s nothing artificial about AI...It’s inspired by people, it’s created by people, and—most importantly—it impacts people.
+Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "Thereï¿½s nothing artificial about AI...Itï¿½s inspired by people, itï¿½s created by people, andï¿½most importantlyï¿½it impacts people.
 
 34. What is variance in ML?
 The MSE on a validation set can be used as an estimate for variance.
@@ -230,7 +230,7 @@ It is intended to be used by libraries such as NumPy for matrix multiplication.
 Pyjs and IronPython can be used to develop the client-side of Ajax-based applications.
 
 78. Who developed the method of least squares?
-Adrien-Marie Legendre (1805) developed the method of least squares, and introduced it in his Nouvelles méthodes pour la détermination des orbites des comètes (New Methods for Determining the Orbits of Comets).
+Adrien-Marie Legendre (1805) developed the method of least squares, and introduced it in his Nouvelles mï¿½thodes pour la dï¿½termination des orbites des comï¿½tes (New Methods for Determining the Orbits of Comets).
 
 79. What is gradient descent?
 The weight updates can be done via stochastic gradient descent or other methods, such as Extreme Learning Machines, "No-prop" networks, training without backtracking, "weightless" networks, and non-connectionist neural networks.

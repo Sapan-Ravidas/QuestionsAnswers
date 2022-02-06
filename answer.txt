@@ -1,0 +1,4 @@
+Types of supervised learning algorithms include Active learning , classification and regression.
+Semi-supervised learning falls between unsupervised learning (without any labeled training data) and supervised learning (with completely labeled training data).
+Python 3.0 was released on 3 December 2008.
+Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers.

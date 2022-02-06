@@ -9,13 +9,15 @@ if __name__ == '__main__':
     print(f"Comparision between {sys.argv[1]}, {sys.argv[2]}")
     counter = 0
     with open(sys.argv[1]) as file1:
-        with open(sys.argv[2]) as file2:
-            line1 = file1.readlines()
-            line2 = file2.readlines()
+        line1 = file1.readlines()
+    
+    with open(sys.argv[2]) as file2:
+        line2 = file2.readlines()
             
     
     for l1, l2 in zip(line1, line2):
         if l1 != l2:
+            print(l1)
             counter += 1
     
     print(counter)
