@@ -1,0 +1,350 @@
+What is testing data?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.00021169108639721427
+Score of file 'neural_network.txt' = 0.00021294844256833956
+Score of file 'python.txt' = 0.00035509589168029984
+
+
+Sentence Relevance Scores are : 
+It includes modules for creating graphical user interfaces, connecting to relational databases, generating pseudorandom numbers, arithmetic with arbitrary-precision decimals, manipulating regular expressions, and unit testing. = 5.337538079701318
+Python 3.9 alpha1 was announced in November 2019 and with the adoption of a new yearly release cadence, the first release of 3.9 is slated for November 2020.Many alpha, beta, and release-candidates are also released as previews and for testing before final releases. = 5.337538079701318
+Data analytics = 4.08477511120595
+SQLAlchemy can be used as data mapper to a relational database. = 4.08477511120595
+Since a name is a generic reference holder it is unreasonable to associate a fixed data type with it. = 4.08477511120595
+The emitted code is specialized for certain data types and is faster than standard Python code. = 4.08477511120595
+
+It includes modules for creating graphical user interfaces, connecting to relational databases, generating pseudorandom numbers, arithmetic with arbitrary-precision decimals, manipulating regular expressions, and unit testing.
+------>
+Describe the Semi-Supervised Leaning?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.00021169108639721427
+Score of file 'machine_learning.txt' = 0.0008322820368697802
+Score of file 'natural_language_processing.txt' = 0.0005834372218099361
+Score of file 'probability.txt' = 0.0011823406064988406
+Score of file 'python.txt' = 0.00017754794584014992
+
+
+Sentence Relevance Scores are : 
+Probability theory is required to describe quantum phenomena. = 4.244917420701475
+Objectivists assign numbers to describe some objective or physical state of affairs. = 4.244917420701475
+Probability theory is also used to describe the underlying mechanics and regularities of complex systems. = 4.244917420701475
+The theory of behavioral finance emerged to describe the effect of such groupthink on pricing, on policy, and on peace and conflict. = 4.244917420701475
+
+Probability theory is required to describe quantum phenomena.
+------>
+What is bias in Machine Learning?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0011136407826160314
+Score of file 'machine_learning.txt' = 0.005992399007737473
+Score of file 'natural_language_processing.txt' = 0.0013555506081334913
+Score of file 'neural_network.txt' = 0.0008976429666997406
+Score of file 'python.txt' = 0.00018680487376429775
+
+
+Sentence Relevance Scores are : 
+Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "There�s nothing artificial about AI...It�s inspired by people, it�s created by people, and�most importantly�it impacts people. = 6.241281457916771
+For example, using job hiring data from a firm with racist hiring policies may lead to a machine learning system duplicating the bias by scoring job applicants against similarity to previous successful applicants. = 6.241281457916771
+=== Bias === = 4.019381523748645
+The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. = 4.019381523748645
+Systems which are trained on datasets collected with biases may exhibit these biases upon use (algorithmic bias), thus digitizing cultural prejudices. = 4.019381523748645
+Reasons for this are numerous: lack of (suitable) data, lack of access to the data, data bias, privacy problems, badly chosen tasks and algorithms, wrong tools and people, lack of resources, and evaluation problems. = 4.019381523748645
+
+Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "There�s nothing artificial about AI...It�s inspired by people, it�s created by people, and�most importantly�it impacts people.
+------>
+What is Natural Language Processing?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0003340922347848094
+Score of file 'machine_learning.txt' = 0.00018416318868076222
+Score of file 'natural_language_processing.txt' = 0.003679351650648048
+Score of file 'probability.txt' = 0.00023324719419269246
+Score of file 'python.txt' = 0.002008152392966201
+
+
+Sentence Relevance Scores are : 
+Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation. = 6.805841513180088
+The following is a list of some of the most commonly researched tasks in natural language processing. = 6.805841513180088
+Starting in the late 1980s, however, there was a revolution in natural language processing with the introduction of machine learning algorithms for language processing. = 6.805841513180088
+Up to the 1980s, most natural language processing systems were based on complex sets of hand-written rules. = 6.805841513180088
+Though natural language processing tasks are closely intertwined, they are frequently subdivided into categories for convenience. = 6.805841513180088
+The history of natural language processing (NLP) generally started in the 1950s, although work can be found from earlier periods. = 6.805841513180088
+
+Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation.
+------>
+What are the good models?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.00047454660742102174
+Score of file 'machine_learning.txt' = 0.0008953923151832444
+Score of file 'natural_language_processing.txt' = 0.0008714253909429588
+Score of file 'neural_network.txt' = 0.0006972358434924626
+Score of file 'probability.txt' = 0.0004235615236717626
+
+
+Sentence Relevance Scores are : 
+A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. = 5.117993812416755
+Concern for fairness in machine learning, that is, reducing bias in machine learning and propelling its use for human good is increasingly expressed by artificial intelligence scientists, including Fei-Fei Li, who reminds engineers that "There�s nothing artificial about AI...It�s inspired by people, it�s created by people, and�most importantly�it impacts people. = 5.117993812416755
+=== Models === = 3.172083663361442
+=== Training models === = 3.172083663361442
+Various types of models have been used and researched for machine learning systems. = 3.172083663361442
+Language models learned from data have been shown to contain human-like biases. = 3.172083663361442
+
+A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem.
+------>
+What is hypothesis used for?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.00021169108639721427
+Score of file 'machine_learning.txt' = 0.000525111500424201
+Score of file 'neural_network.txt' = 0.00021294844256833956
+
+
+Sentence Relevance Scores are : 
+If the hypothesis is less complex than the function, then the model has under fitted the data. = 4.712528704308591
+But if the hypothesis is too complex, then the model is subject to overfitting and generalization will be poorer. = 4.712528704308591
+For the best performance in the context of generalization, the complexity of the hypothesis should match the complexity of the function underlying the data. = 4.712528704308591
+In machine learning, genetic algorithms were used in the 1980s and 1990s. = 2.6756467770475507
+Various types of models have been used and researched for machine learning systems. = 2.6756467770475507
+Classification algorithms are used when the outputs are restricted to a limited set of values, and regression algorithms are used when the outputs may have any numerical value within a range. = 2.6756467770475507
+
+If the hypothesis is less complex than the function, then the model has under fitted the data.
+------>
+What is the main idea of Min-Max Algorithm?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0013141826758570592
+Score of file 'machine_learning.txt' = 0.0024276211007423143
+Score of file 'natural_language_processing.txt' = 0.00021532931922897734
+Score of file 'neural_network.txt' = 0.001494802241873417
+Score of file 'python.txt' = 0.00010385889039655851
+
+
+Sentence Relevance Scores are : 
+Their main success came in the mid-1980s with the reinvention of backpropagation. = 5.811140992976701
+The key idea is that a clean image patch can be sparsely represented by an image dictionary, but the noise cannot. = 5.811140992976701
+A popular heuristic method for sparse dictionary learning is the K-SVD algorithm. = 2.8667020138102597
+Unsupervised learning:  No labels are given to the learning algorithm, leaving it on its own to find structure in its input. = 2.8667020138102597
+An algorithm that improves the accuracy of its outputs or predictions over time is said to have learned to perform that task. = 2.8667020138102597
+Instead, a cluster analysis algorithm may be able to detect the micro-clusters formed by these patterns. = 2.8667020138102597
+
+Their main success came in the mid-1980s with the reinvention of backpropagation.
+------>
+What is Search Algorithm?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0015685303988710422
+Score of file 'machine_learning.txt' = 0.002252583933934247
+Score of file 'natural_language_processing.txt' = 0.00021532931922897734
+Score of file 'neural_network.txt' = 0.0016193690953628685
+Score of file 'python.txt' = 0.00010385889039655851
+
+
+Sentence Relevance Scores are : 
+A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem. = 7.984695826227015
+For example, Gboard uses federated machine learning to train search query prediction models on users' mobile phones without having to send individual searches back to Google. = 5.117993812416755
+A popular heuristic method for sparse dictionary learning is the K-SVD algorithm. = 2.8667020138102597
+Unsupervised learning:  No labels are given to the learning algorithm, leaving it on its own to find structure in its input. = 2.8667020138102597
+An algorithm that improves the accuracy of its outputs or predictions over time is said to have learned to perform that task. = 2.8667020138102597
+Instead, a cluster analysis algorithm may be able to detect the micro-clusters formed by these patterns. = 2.8667020138102597
+
+A genetic algorithm (GA) is a search algorithm and heuristic technique that mimics the process of natural selection, using methods such as mutation and crossover to generate new genotypes in the hope of finding good solutions to a given problem.
+------>
+What are the pre-processing technique used in Natural Language?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0004459330460103118
+Score of file 'machine_learning.txt' = 0.0011914823923586094
+Score of file 'natural_language_processing.txt' = 0.003679351650648048
+Score of file 'probability.txt' = 0.00023324719419269246
+Score of file 'python.txt' = 0.002008152392966201
+
+
+Sentence Relevance Scores are : 
+For instance, the term neural machine translation (NMT) emphasizes the fact that deep learning-based approaches to machine translation directly learn sequence-to-sequence transformations, obviating the need for intermediate steps such as word alignment and language modeling that was used in statistical machine translation (SMT). = 5.105766326641055
+Natural language generation = 4.161304717800204
+Natural language understanding = 4.161304717800204
+Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation. = 4.161304717800204
+Natural language understanding involves the identification of the intended semantic from the multiple possible semantics which can be derived from a natural language expression which usually takes the form of organized notations of natural language concepts. = 4.161304717800204
+The following is a list of some of the most commonly researched tasks in natural language processing. = 4.161304717800204
+
+For instance, the term neural machine translation (NMT) emphasizes the fact that deep learning-based approaches to machine translation directly learn sequence-to-sequence transformations, obviating the need for intermediate steps such as word alignment and language modeling that was used in statistical machine translation (SMT).
+------>
+When UnderFiting occurs?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.00011184081122550237
+Score of file 'probability.txt' = 0.0004684913810951427
+
+
+Sentence Relevance Scores are : 
+If either event A or event B but never both occurs on a single performance of an experiment, then they are called mutually exclusive events. = 5.631211781821365
+
+If either event A or event B but never both occurs on a single performance of an experiment, then they are called mutually exclusive events.
+------>
+When Overfitting occurs?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.00032353189762271666
+Score of file 'machine_learning.txt' = 0.000525111500424201
+Score of file 'neural_network.txt' = 0.00021294844256833956
+Score of file 'probability.txt' = 0.0004684913810951427
+
+
+Sentence Relevance Scores are : 
+But if the hypothesis is too complex, then the model is subject to overfitting and generalization will be poorer. = 4.712528704308591
+Overfitting is something to watch out for when training a machine learning model. = 4.712528704308591
+The latter is often extended by regularization (mathematics) methods to mitigate overfitting and bias, as in ridge regression. = 4.712528704308591
+
+But if the hypothesis is too complex, then the model is subject to overfitting and generalization will be poorer.
+------>
+When SVM is better than other model?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0006657393597546213
+Score of file 'machine_learning.txt' = 0.0010370623945001663
+Score of file 'neural_network.txt' = 0.00037370056046835427
+Score of file 'python.txt' = 0.000623153342379351
+
+
+Sentence Relevance Scores are : 
+Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other. = 7.561838975406982
+An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. = 5.117993812416755
+Several learning algorithms aim at discovering better representations of the inputs provided during training. = 5.117993812416755
+In 2006, the media-services provider Netflix held the first "Netflix Prize" competition to find a program to better predict user preferences and improve the accuracy on its existing Cinematch movie recommendation algorithm by at least 10%. = 5.117993812416755
+== Model assessments == = 2.4438451629902262
+If the hypothesis is less complex than the function, then the model has under fitted the data. = 2.4438451629902262
+
+Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.
+------>
+What is the history of NLP?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0010065673010295213
+Score of file 'natural_language_processing.txt' = 0.0023337488872397444
+
+
+Sentence Relevance Scores are : 
+The history of natural language processing (NLP) generally started in the 1950s, although work can be found from earlier periods. = 8.339530764003007
+== History == = 4.516338972281476
+== Rule-based vs. statistical NLP == = 3.82319179172153
+In some areas, this shift has entailed substantial changes in how NLP systems are designed, such that deep neural network-based approaches may be viewed as a new paradigm distinct from statistical natural language processing. = 3.82319179172153
+Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. = 3.82319179172153
+
+The history of natural language processing (NLP) generally started in the 1950s, although work can be found from earlier periods.
+------>
+Difference between rule-based vs statical NLP?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0010478444167892856
+Score of file 'machine_learning.txt' = 0.0014168799189386194
+Score of file 'natural_language_processing.txt' = 0.0029171861090496803
+Score of file 'neural_network.txt' = 0.00012456685348945142
+Score of file 'python.txt' = 0.00010385889039655851
+
+
+Sentence Relevance Scores are : 
+== Rule-based vs. statistical NLP == = 9.032677944562952
+The history of natural language processing (NLP) generally started in the 1950s, although work can be found from earlier periods. = 3.82319179172153
+In some areas, this shift has entailed substantial changes in how NLP systems are designed, such that deep neural network-based approaches may be viewed as a new paradigm distinct from statistical natural language processing. = 3.82319179172153
+Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. = 3.82319179172153
+
+== Rule-based vs. statistical NLP ==
+------>
+What is semantics in NLP?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0010771309964952593
+Score of file 'natural_language_processing.txt' = 0.004910504205306455
+Score of file 'python.txt' = 0.00035509589168029984
+
+
+Sentence Relevance Scores are : 
+== Rule-based vs. statistical NLP == = 3.82319179172153
+The history of natural language processing (NLP) generally started in the 1950s, although work can be found from earlier periods. = 3.82319179172153
+In some areas, this shift has entailed substantial changes in how NLP systems are designed, such that deep neural network-based approaches may be viewed as a new paradigm distinct from statistical natural language processing. = 3.82319179172153
+Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. = 3.82319179172153
+Lexical semantics = 3.417726683613366
+Distributional semantics = 3.417726683613366
+
+== Rule-based vs. statistical NLP ==
+------>
+Who developed the method of least squares?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.00024128883623347346
+Score of file 'machine_learning.txt' = 0.0006354451385099725
+Score of file 'natural_language_processing.txt' = 0.00038730017375242606
+Score of file 'neural_network.txt' = 0.0005490250449535093
+Score of file 'probability.txt' = 0.0009021665621730102
+Score of file 'python.txt' = 0.00037360974752859545
+
+
+Sentence Relevance Scores are : 
+Adrien-Marie Legendre (1805) developed the method of least squares, and introduced it in his Nouvelles m�thodes pour la d�termination des orbites des com�tes (New Methods for Determining the Orbits of Comets). = 19.6344753693893
+biological Punnett squares). = 4.93806460126142
+There have been at least two successful attempts to formalize probability, namely the Kolmogorov formulation and the Cox formulation. = 4.532599493153256
+The earliest known forms of probability and statistics were developed by Middle Eastern mathematicians studying cryptography between the 8th and 13th centuries. = 4.532599493153256
+The modern theory of probability based on the measure theory was developed by Andrey Kolmogorov (1931).On the geometric side (see integral geometry) contributors to The Educational Times were influential (Miller, Crofton, McColl, Wolstenholme, Watson, and Artemas Martin). = 4.532599493153256
+To qualify as a probability, the assignment of values must satisfy the requirement that if you look at a collection of mutually exclusive events (events with no common results, e.g., the events {1,6}, {3}, and {2,4} are all mutually exclusive), the probability that at least one of the events will occur is given by the sum of the probabilities of all the individual events. = 4.532599493153256
+
+Adrien-Marie Legendre (1805) developed the method of least squares, and introduced it in his Nouvelles m�thodes pour la d�termination des orbites des com�tes (New Methods for Determining the Orbits of Comets).
+------>
+The first person who has created the concept of perceptron?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0014193384586271638
+Score of file 'machine_learning.txt' = 0.0003071705364455791
+Score of file 'natural_language_processing.txt' = 0.0017503116654298085
+Score of file 'neural_network.txt' = 0.0020974623051678723
+Score of file 'probability.txt' = 0.00034581245894086516
+Score of file 'python.txt' = 0.00010385889039655851
+
+
+Sentence Relevance Scores are : 
+Rosenblatt (1958) created the perceptron. = 9.167093564972902
+In 2012, Ng and Dean created a network that learned to recognize higher-level concepts, such as cats, only from watching unlabeled images. = 4.727387818712341
+The concept of momentum allows the balance between the gradient and the previous change to be weighted such that the weight adjustment depends to some degree on the previous change. = 4.727387818712341
+In the late 1940s, D. O. Hebb created a learning hypothesis based on the mechanism of neural plasticity that became known as Hebbian learning. = 4.727387818712341
+ANNs are composed of artificial neurons which retain the biological concept of neurons, which receive input, combine the input with their internal state (activation) and an optional threshold using an activation function, and produce output using an output function. = 4.727387818712341
+This concept emerges in a probabilistic (Bayesian) framework, where regularization can be performed by selecting a larger prior probability over simpler models; but also in statistical learning theory, where the goal is to minimize over two quantities: the 'empirical risk' and the 'structural risk', which roughly corresponds to the error over the training set and the predicted error in unseen data due to overfitting. = 4.727387818712341
+
+Rosenblatt (1958) created the perceptron.
+------>
+What are the learning classifier systems?
+
+
+File Relevance Score are : 
+Score of file 'artificial_intelligence.txt' = 0.0005592040561275118
+Score of file 'machine_learning.txt' = 0.0011097093824930402
+
+
+Sentence Relevance Scores are : 
+Rule-based machine learning approaches include learning classifier systems, association rule learning, and artificial immune systems. = 8.404604483577309
+Learning classifier systems (LCS) are a family of rule-based machine learning algorithms that combine a discovery component, typically a genetic algorithm, with a learning component, performing either supervised learning, reinforcement learning, or unsupervised learning. = 8.404604483577309
+An SVM training algorithm is a non-probabilistic, binary, linear classifier, although methods such as Platt scaling exist to use SVM in a probabilistic classification setting. = 4.42484663185681
+Supervised anomaly detection techniques require a data set that has been labeled as "normal" and "abnormal" and involves training a classifier (the key difference to many other statistical classification problems is the inherently unbalanced nature of outlier detection). = 4.42484663185681
+Various types of models have been used and researched for machine learning systems. = 3.979757851720499
+Machine learning systems used for criminal risk assessment have been found to be biased against black people. = 3.979757851720499
+
+Rule-based machine learning approaches include learning classifier systems, association rule learning, and artificial immune systems.
+------>
