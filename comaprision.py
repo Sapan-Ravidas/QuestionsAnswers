@@ -14,11 +14,14 @@ if __name__ == '__main__':
     with open(sys.argv[2]) as file2:
         line2 = file2.readlines()
             
-    
-    for l1, l2 in zip(line1, line2):
-        if l1 != l2:
-            print(l1)
-            counter += 1
+    with open("diff.txt", "w") as file:
+        c = 0
+        for l1, l2 in zip(line1, line2):
+            c += 1
+            if l1 != l2:
+                # print(l1)
+                counter += 1
+                file.writelines(f"{c}\n")
     
     print(counter)
     

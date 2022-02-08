@@ -15,6 +15,8 @@ import nltk
 FILE_MATCHES = 5
 SENTENCE_MATCHES = 1
 
+DIFF = set([10, 14, 33, 37, 48, 53, 55, 56, 60, 64, 65, 69, 72, 73, 74, 78, 80, 83])
+
 
 def find_matches(query, file_words, file_idfs):
     # Determine top file matches according to TF-IDF
@@ -48,8 +50,7 @@ def print_matches(matches):
     Print all the matching sentences for query
     """
     for match in matches:
-        print(match)
-
+        print(match, end=",")
 
 
 def writeToFile(query, ans_file, counter, matches):
@@ -84,7 +85,6 @@ if __name__ == '__main__':
     file_idfs = Util.compute_idfs(file_words)
     
     if N_ARGS == 2:
-
         CHOICE = "Y"
         while CHOICE.lower() in {'y', 'yes'}:
             # Prompt user for query
@@ -99,12 +99,13 @@ if __name__ == '__main__':
         q_file = sys.argv[2]
         with open(q_file) as questions:
             counter = 1
-            with open(f"ans_{q_file}", "w") as answers:
-                while True:
-                    Q = questions.readline()
-                    if Q == "" or Q == None: break
-
+            while True:
+                Q = questions.readline()
+                if Q == "" or Q == None: break
+                if counter in DIFF:
+                    print(Q.strip("\n"), end="\t")
                     matches = find_matches(set(Util.tokenize(Q)), file_words, file_idfs)
-                    writeToFile(Q, answers, counter, matches)
-                    counter += 1
+                    # writeToFile(Q, answers, counter, matches)
+                    # print_matches(matches)
+                counter += 1
                     

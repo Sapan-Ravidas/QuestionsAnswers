@@ -1,9 +1,9 @@
+from socket import socket
 import nltk
 import sys
 import os
 import string
 import math
-from termcolor import colored, cprint
 
 class Util:
 
@@ -70,16 +70,10 @@ class Util:
         Displays relevance score for all the files
         """
         try:
-            print()
-            counter = 0
-            cprint("File Relevance Score are : ", 'magenta')
-            for file, score in scores.items():
-                text = f"Score of file '{file}' = {colored(score, 'green')}"
-                print(text)
-                counter += 1
-                if counter > 5:
-                    break
-            print()
+            for key, value in sorted(scores.items(), key = lambda x : x[1], reverse=True):
+                print(key, end="\t")
+                print(value, end="\t")
+                break
         except Exception as e:
             print(e)
 
@@ -91,15 +85,10 @@ class Util:
         and density). Displays the scores of top 5 sentence.
         """
         try:
-            counter = 0
-            cprint("\nSentence Relevance Scores are : ", 'magenta')
             for key, value in sorted(scores.items(), key = lambda x: (x[1][0], x[1][1]), reverse=True):
-                text = f"{key} = {colored(value[0], 'green')}"
-                print(text)
-                counter += 1
-                if counter > 5:
-                    break
-            print()
+                print(key, end="\t")
+                print(value[0], end="\n")
+                break
         except Exception as e:
             print(e)
 
@@ -118,8 +107,8 @@ class Util:
             file_score = 0
             for word in query:
                 if word in file_content:
-                    # file_score += file_content.count(word) * idfs[word]
-                    file_score += ((file_content.count(word) / len(file_content)) * idfs[word])
+                    file_score += file_content.count(word) * idfs[word]
+                    # file_score += ((file_content.count(word) / len(file_content)) * idfs[word])
 
             if file_score != 0:
                 scores[filename] = file_score
