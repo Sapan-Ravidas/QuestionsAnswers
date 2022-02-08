@@ -8,7 +8,11 @@ import utils
 import sys
 import nltk
 
-FILE_MATCHES = 1
+# nltk.download("wordnet")
+# nltk.download('omw-1.4')
+# nltk.download("stopwords")
+
+FILE_MATCHES = 5
 SENTENCE_MATCHES = 1
 
 

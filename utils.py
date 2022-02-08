@@ -31,8 +31,9 @@ class Util:
         Process document by coverting all words to lowercase, and removing any
         punctuation or English stopwords.
         """
+        wordnet = nltk.WordNetLemmatizer()
         tokenized = nltk.tokenize.word_tokenize(document.lower())
-        final_list = [x for x in tokenized if x not in string.punctuation and x not in nltk.corpus.stopwords.words("english")]
+        final_list = [wordnet.lemmatize(x) for x in tokenized if x not in string.punctuation and x not in nltk.corpus.stopwords.words("english")]
         return final_list
 
 
